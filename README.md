@@ -14,3 +14,6 @@ Topics:
 
 - FITS with GDAL and Astropy (and QGIS)
 - VOEvent servers?
+
+# Etherpad for notes
+https://etherpad.net/p/VESPA_session_20Sep2018
