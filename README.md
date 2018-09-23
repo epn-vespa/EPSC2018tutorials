@@ -20,7 +20,6 @@ e.g.
 - [Qgis & VO plugin](https://github.com/epn-vespa/VO_QGIS_plugin)
 - [Planetary analogues on VESPA](https://github.com/epn-vespa/tutorials/blob/master/Aladin-Earth-Analog/Aladin-Earth-Analog-Tutorial.md)
 
-- FITS with GDAL and Astropy (and QGIS)
 - VOEvent servers?
 
 # Etherpad for notes
